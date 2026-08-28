@@ -4,12 +4,6 @@ Supplementary materials for the manuscript "Face Off: Real-World Adversarial Eva
 _ads_:
 - flyer_redacted_os.png: flyer distributed in public spaces, with tearoff tabs
 
-
-_forms_:
-- redacted_parent_permission_form.pdf: study information and required consent document for participants aged 18 and older. Discloses that age assurance apps are being tested, and includes list of risks and mitigations.
-- redacted_adult_consent_form.pdf: study information and required consent document for participants aged 18 and older. Discloses that age assurance apps are being tested.
-- redacted_minor_assent_form.pdf: study information and required assent document for participants aged 13-17, inclusive. Does not disclose that age assurance apps are being tested.
-
 _app_UIs_:
 - facetec_age_check_passed.png: result of a successful Facetec liveness and age prediction task
 - facetec_liveness_proven.png: result of a successful Facetec liveness prediction task
@@ -18,6 +12,11 @@ _app_UIs_:
 - privately_fail_from_play_store.png: (from the Age AI for Retail Google Play Store page) result of a failed Privately age check
 - privately_pass_from_play_store.png: (from the Age AI for Retail Google Play Store page) result of a successful Privately age check
 - yoti.png: initial prompt at beginning of Yoti age and liveness prediction task
+
+_forms_:
+- redacted_parent_permission_form.pdf: study information and required consent document for participants aged 18 and older. Discloses that age assurance apps are being tested, and includes list of risks and mitigations.
+- redacted_adult_consent_form.pdf: study information and required consent document for participants aged 18 and older. Discloses that age assurance apps are being tested.
+- redacted_minor_assent_form.pdf: study information and required assent document for participants aged 13-17, inclusive. Does not disclose that age assurance apps are being tested.
 
 _study_protocol_:
 - exit_survey.pdf: optional survey administered to all study participants at the conclusion of study sessions
