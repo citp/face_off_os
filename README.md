@@ -1,5 +1,5 @@
 # face_off_os
-Supplementary materials for the manuscript "Face Off: Real-World Adversarial Evaluation of Biometric Age Assurance Services"
+Supplementary materials for the manuscript "Real-World Adversarial Evaluation of Biometric Age Assurance Services"
 
 _ads_:
 - flyer_redacted_os.png: flyer distributed in public spaces, with tearoff tabs
